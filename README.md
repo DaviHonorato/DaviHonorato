@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DaviHonorato.
+- 👋 Hi, I’m @davihonorato.
 - 👀 I’m interested in Programming.
 - 🌱 I’m currently learning JavaScript.
 - 💞️ I’m looking to collaborate on Web Projects.
