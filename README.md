@@ -1,4 +1,6 @@
-## Oi, eu me chamo Davi Honorato!
+## Oi, eu me chamo <a href="https://github.com/davihonorato">Davi Honorato</a>!
+
+Sou um estudante de tecnologia se preprando para entrar no mercado de trabalho e que almeja atingir suas conquistas.
 
 <div align="center">
   <a href="https://github.com/davihonorato">
@@ -14,4 +16,4 @@
   <img align="center" alt="davi-css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img align="center" alt="davi-python"src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
   <img align="center" alt="davi-c++"src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-</div>
+</div><br>
