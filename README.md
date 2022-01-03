@@ -1,12 +1,12 @@
 ## Olá, eu me chamo <a href="https://github.com/davihonorato">Davi Honorato</a>!
 
-Sou um estudante de tecnologia se preprando para entrar no mercado de trabalho e que almeja atingir suas conquistas.
+Sou um estudante de tecnologia que almeja atingir suas conquistas e objetivos.
 
 <div align="center">
   <a href="https://github.com/davihonorato">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=davihonorato&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davihonorato&layout=compact&theme=dracula"/>
-</div>
+</div><br>
 
 ### Tecnologias que normalmente uso ou que já trabalhei:
 
