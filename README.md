@@ -5,7 +5,7 @@ Sou um estudante de tecnologia se preprando para entrar no mercado de trabalho e
 <div align="center">
   <a href="https://github.com/davihonorato">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=davihonorato&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davihonorato&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davihonorato&layout=compact&theme=dracula"/>
 </div>
 
 ### Tecnologias que normalmente uso ou que já trabalhei:
