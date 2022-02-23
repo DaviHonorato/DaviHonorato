@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Olá, eu me chamo <a href="">Davi Honorato</a>!</h1>
+  <h1>Olá, eu me chamo <a href="">Davi Honorato</a>! 😎</h1>
 
   <p align="center">Sou Desenvolvedor Front-End Jr e utilizo o GitHub para registrar e compartilhar o meu aprendizado.</p>
 
@@ -7,8 +7,8 @@
 
   <div align="center">
     <a href="https://github.com/davihonorato">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=davihonorato&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davihonorato&layout=compact&theme=dracula"/>
+    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=davihonorato&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davihonorato&layout=compact&theme=dracula"/>
   </div>
     
   <div>
