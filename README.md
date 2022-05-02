@@ -2,6 +2,8 @@
   <h1>Olá, eu me chamo <a href="https://www.linkedin.com/in/davihonorato/">Davi Honorato</a>! 😎</h1>
 
   <p align="center">Sou Desenvolvedor Front-End Jr e utilizo o GitHub para registrar e compartilhar o meu aprendizado. <br> Acessando o meu <a href="https://github.com/davihonorato?tab=repositories">repositório</a>, você irá encontrar alguns projetos pessoais. Enjoy! :)</p>
+  
+  ![](https://komarev.com/ghpvc/?username=davihonorato&label=PROFILE+VIEWS)
 
   <div align="center">
     <a href="https://github.com/davihonorato">
